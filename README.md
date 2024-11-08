@@ -11,11 +11,7 @@ This project aims to develop an Alzheimer’s detection model using Convolutiona
 5. [Hyperparameter Optimization](#hyperparameter-optimization)
 6. [Streamlit Interface](#streamlit-interface)
 7. [Results](#results)
-8. [Installation](#installation)
-9. [Usage](#usage)
-10. [Future Work](#future-work)
-11. [Contributing](#contributing)
-12. [License](#license)
+
 
 ## Introduction
 This project was conducted as part of an internship at ASM in Sfax, Tunisia. The objective was to create a model capable of detecting Alzheimer’s through image analysis. The CNN and ANN models were trained to predict Alzheimer’s status based on brain scans.
@@ -38,9 +34,3 @@ An interactive interface using Streamlit allows users to upload MRI scans and re
 
 ## Results
 The optimized model achieved high accuracy, with the Streamlit interface providing accessible predictions.
-
-## Installation
-```bash
-git clone https://github.com/your-username/Alzheimer-Detection-Model.git
-cd Alzheimer-Detection-Model
-pip install -r requirements.txt
